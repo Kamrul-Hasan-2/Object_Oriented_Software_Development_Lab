@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane id="AnchorPane" prefHeight="236.0" prefWidth="411.0" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="assignment02_221071001.FXMLDocumentController">
+    <children>
+        <Button fx:id="button" layoutX="47.0" layoutY="94.0" onAction="#handleButtonAction" text="Button 1" textAlignment="CENTER" />
+        <Label fx:id="label" layoutX="146.0" layoutY="190.0" minHeight="16" minWidth="69" prefHeight="24.0" prefWidth="120.0" textAlignment="CENTER" />
+      <Text fill="#2b5ecd" layoutX="109.0" layoutY="59.0" strokeType="OUTSIDE" strokeWidth="0.0" text="My First JavaFX App" textAlignment="CENTER" wrappingWidth="193.634765625">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Text>
+      <Button fx:id="button2" layoutX="131.0" layoutY="94.0" onAction="#handleButtonAction1" text="Button 2" textAlignment="CENTER" />
+      <Button fx:id="button3" layoutX="220.0" layoutY="94.0" onAction="#handleButtonAction2" text="Button 3" />
+      <Button fx:id="button4" layoutX="303.0" layoutY="94.0" onAction="#handleButtonAction3" text="Button 4" textAlignment="CENTER" />
+      <Button fx:id="exit" layoutX="188.0" layoutY="143.0" onAction="#handleButtonAction5" text="Exit" textFill="#ff0404" />
+    </children>
+</AnchorPane>
