@@ -20,5 +20,20 @@
 - Run App
 ![image](https://github.com/user-attachments/assets/4b34d6f2-5a2f-4241-a0a9-5948e5c521c0)
 
+
+# Assignment 03
+- SceneBuilder
+![image](https://github.com/user-attachments/assets/6aecb45e-e9b3-4ab1-a928-e38d78ffa9ac)
+ 
+- Controller Code
+![image](https://github.com/user-attachments/assets/f6cfc5ea-aa70-455c-b5b4-d99f4ff35366)
+
+- Run App
+![image](https://github.com/user-attachments/assets/c4b7c17f-715d-44fd-a253-f92ee6876a63)
+![image](https://github.com/user-attachments/assets/e509e46b-8476-4c88-919b-9d3b030c5ec2)
+
+
+
+
      
 
