@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane id="AnchorPane" prefHeight="425.0" prefWidth="320" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="assingment04_221071001.FXMLDocumentController">
+    <children>
+        <Button fx:id="button" layoutX="123.0" layoutY="331.0" onAction="#handleButtonAction" text="Edit" />
+      <Text layoutX="92.0" layoutY="182.0" strokeType="OUTSIDE" strokeWidth="0.0" text="User Profile" textAlignment="CENTER" wrappingWidth="149.607421875">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Text>
+      <ImageView fitHeight="117.0" fitWidth="172.0" layoutX="98.0" layoutY="33.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@download%20(9).png" />
+         </image>
+      </ImageView>
+      <Text layoutX="51.0" layoutY="226.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Name" textAlignment="CENTER" wrappingWidth="52.693359375" />
+      <Text layoutX="51.0" layoutY="257.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Email" textAlignment="CENTER" wrappingWidth="52.693359375" />
+      <Text layoutX="51.0" layoutY="293.0" strokeType="OUTSIDE" strokeWidth="0.0" text="DOB" textAlignment="CENTER" wrappingWidth="52.693359375" />
+      <Text id="usernameLabel" layoutX="123.0" layoutY="226.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Kamrul Hasan" wrappingWidth="98.693359375" />
+      <Text id="emailLabel" layoutX="123.0" layoutY="257.0" strokeType="OUTSIDE" strokeWidth="0.0" text="kamrul@gmail.com" wrappingWidth="115.693359375" />
+      <Text id="dobLebel" layoutX="123.0" layoutY="293.0" strokeType="OUTSIDE" strokeWidth="0.0" text="01/01/2201" wrappingWidth="115.693359375" />
+    </children>
+</AnchorPane>
