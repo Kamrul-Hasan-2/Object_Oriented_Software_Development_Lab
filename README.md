@@ -1,3 +1,5 @@
+![Assignment Planner Sheet](https://github.com/user-attachments/assets/61f6d251-e704-46a8-85a1-c50c917ebf3f)
+
 # Assignment 01 
 - SceneBuilder
 ![image](https://github.com/user-attachments/assets/a42f5628-da95-4c0f-8210-440eea537bd7)
@@ -31,6 +33,18 @@
 - Run App
 ![image](https://github.com/user-attachments/assets/c4b7c17f-715d-44fd-a253-f92ee6876a63)
 ![image](https://github.com/user-attachments/assets/e509e46b-8476-4c88-919b-9d3b030c5ec2)
+
+# Assignment 04
+- SceneBuilder
+![image](https://github.com/user-attachments/assets/9dae6aad-7fc4-4e52-853e-4af214d5af02)
+
+- Run App
+![image](https://github.com/user-attachments/assets/939ad59d-f988-4f42-b5e3-34c4e5a5f0b6)
+![image](https://github.com/user-attachments/assets/0dedc2cd-141d-4e53-b545-4c43982d6522)
+![image](https://github.com/user-attachments/assets/d571c014-dd30-481b-985f-4e0f2b575764)
+
+
+
 
 
 
