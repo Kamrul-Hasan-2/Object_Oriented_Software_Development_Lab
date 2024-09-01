@@ -1,3 +1,5 @@
+![Assignment Planner Sheet](https://github.com/user-attachments/assets/61f6d251-e704-46a8-85a1-c50c917ebf3f)
+
 # Assignment 01 
 - SceneBuilder
 ![image](https://github.com/user-attachments/assets/a42f5628-da95-4c0f-8210-440eea537bd7)
